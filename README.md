@@ -141,6 +141,19 @@ RNAseq Expression data visualisation (Degust)
 
 
 
+Go term visulisation : GOView
+-----------------------------
+
+
+- We will use (http://www.webgestalt.org/2017/GOView/)
+
+- The simple solution to view and compare Gene Ontology under DAG Structure
+
+- Sample file for Biological Process, searching by GO ID ()
+
+- It allows users visualize and compare multiple provided GO term lists in a directed acyclic graph (DAG) to reveal relationships among the terms
+
+
 
 
 
