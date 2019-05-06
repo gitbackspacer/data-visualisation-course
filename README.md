@@ -99,23 +99,37 @@ Circos
 
 * Circos table viewer: It makes chord diagrams from an adjacency matrix webbased circos table viewer(http://mkweb.bcgsc.ca/tableviewer/)
  This is very generic and if you have understood this use can adjust it plot any genomic data as the underlying principles are same.
- 
- 
- 
+   
 * If you prefer R (https://jokergoo.github.io/circlize_book/book/)
 
-
-
  
 
 
 
 
-RNA expression data
--------------------
+RNA expression data visualisation(IGV)
+---------------------------------------
+
+* We will use IGV(Integrative Genomics Viewer)
+
+* Integrated visualization tool for multiple data types and genome annotations.
+
+* Data from NGS analysis can be easily visualized: Interactive and speedy visualization. Run locally on desktop
+
+* Handles large datasets 
+
+* View multiple datasets in separate panels on the same pane( hence intergrative)
+
+* Supports several track management options (filtering, grouping, sorting) and in-built tools (index, sort, motif finder etc)
+
+* Direct visualization from Galaxy : bed, wig, gff, gff3, Bam, bigWig, bigBed, vcf format
+
+
+
 
 Using Expression atlas: Transcription profiling by high throughput sequencing of Arabidopsis roots, leaves, flowers and siliques 
 (https://www.ebi.ac.uk/gxa/experiments/E-GEOD-38612/Results)
+
 
 
 
