@@ -106,7 +106,7 @@ Circos
 
 
 
-RNA expression data visualisation(IGV)
+RNA seq mapping data visualisation(IGV)
 ---------------------------------------
 
 * We will use IGV(Integrative Genomics Viewer)
@@ -124,7 +124,11 @@ RNA expression data visualisation(IGV)
 * Direct visualization from web-resource in the formats: bed, wig, gff, gff3, Bam, bigWig, bigBed, vcf etc
 
 
-* IGV execises viewing BAMS() and spotting SNPs( data under the repo `igv-mutant-data`)
+* IGV execises viewing BAMS  and spotting SNPs( data under the repo `igv-mutant-data`)
+
+
+RNAseq Expression data visualisation (Degust)
+---------------------------------------------
 
 
 
