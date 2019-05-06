@@ -88,6 +88,25 @@ alongside industry standard colorscale support and consensus sequence. No matter
 (https://dash-bio.plotly.host/dash-alignment-viewer/)
 
 
+Circos
+------
+
+
+* Useful links and useful advice to make your own ciros visualisation
+  (https://medium.com/@Marianattestad/a-treatise-on-making-circos-plots-from-genomic-data-7ff496849e0)
+
+* Visualize Circos: Human Chromosomes (https://dash-bio.plotly.host/dash-circos)
+
+* Circos table viewer: It makes chord diagrams from an adjacency matrix webbased circos table viewer(http://mkweb.bcgsc.ca/tableviewer/)
+ This is very generic and if you have understood this use can adjust it plot any genomic data as the underlying principles are same.
+ 
+
+
+* If you prefer R (https://jokergoo.github.io/circlize_book/book/)
+
+ 
+
+
 
 
 RNA expression data
