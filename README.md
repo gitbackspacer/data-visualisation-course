@@ -172,7 +172,7 @@ Cytoscape
 
 - Explore various options
 
-- other network example we have is `05062019-signalink-UTh27h.cys` we downloaded using the following config:
+- other network example we have is `05062019-signalink-UTh27h.cys` we downloaded from (http://signalink.org/download) using the following config:
 
 ```yaml
 SignaLink export config:
