@@ -100,9 +100,11 @@ Circos
 * Circos table viewer: It makes chord diagrams from an adjacency matrix webbased circos table viewer(http://mkweb.bcgsc.ca/tableviewer/)
  This is very generic and if you have understood this use can adjust it plot any genomic data as the underlying principles are same.
  
-
-
+ 
+ 
 * If you prefer R (https://jokergoo.github.io/circlize_book/book/)
+
+
 
  
 
