@@ -50,12 +50,23 @@ After this course you should be able to:
 
 Data Visualisation has become mainstream - no more big tables, spreadsheets, bar/pie charts -
 
-For an inspiration let visit the story : "The 25 Best Data Visualizations of 2018" (https://visme.co/blog/best-data-visualizations/)
+For an inspiration lets visit the story : "The 25 Best Data Visualizations of 2018" (https://visme.co/blog/best-data-visualizations/)
 
 
 
 Exercises
 ---------
+
+Lot of researchers are making use of plotly and R (https://davetang.org/muse/2016/08/30/interactive-plots-r-using-plotly/) and visit to to checkout the RNAseq data (http://rpubs.com/davetang/205147)
+
+I have done a short demo  (https://plot.ly/~threadmapper/89) using mouse over we can explore(interactive) the gene names
+
+
+I used to do make and edit templates (https://github.com/veusz/veusz) and save them into SVG and then add the interactivity by writing tooltips. 
+
+
+
+
 
 MSA 
 ---
