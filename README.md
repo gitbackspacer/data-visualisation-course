@@ -66,7 +66,7 @@ Exercises
 
 * I used to do make and edit templates (https://github.com/veusz/veusz) and save them into SVG and then add the interactivity by writing  tooltips. 
 
-
+* Plotly serves a large bioinformatics research community. These users leverage the uniquely interactive features of plotly charts for dendrograms, heatmaps, volcano plots, and other visualizations common in this field. Using Python and R created through plotly  researchers have created some neat visualisation (https://moderndata.plot.ly/bioinformatics-plots-made-in-python-and-r/)
 
 
 
