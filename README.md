@@ -172,9 +172,9 @@ Cytoscape
 
 - Explore various options
 
-- other network example we have is `05062019-signalink-UTh27h.cys` we downloaded as 
+- other network example we have is `05062019-signalink-UTh27h.cys` we downloaded using the following config:
 
-````yaml
+```yaml
 SignaLink export config:
    Species:
        H. sapiens
@@ -190,10 +190,8 @@ SignaLink export config:
 ```
 
 
-
 Using Expression atlas: Transcription profiling by high throughput sequencing of Arabidopsis roots, leaves, flowers and siliques 
 (https://www.ebi.ac.uk/gxa/experiments/E-GEOD-38612/Results)
-
 
 
 
