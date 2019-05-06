@@ -106,7 +106,6 @@ Circos
 
 
 
-
 RNA expression data visualisation(IGV)
 ---------------------------------------
 
@@ -122,7 +121,13 @@ RNA expression data visualisation(IGV)
 
 * Supports several track management options (filtering, grouping, sorting) and in-built tools (index, sort, motif finder etc)
 
-* Direct visualization from Galaxy : bed, wig, gff, gff3, Bam, bigWig, bigBed, vcf format
+* Direct visualization from web-resource in the formats: bed, wig, gff, gff3, Bam, bigWig, bigBed, vcf etc
+
+
+* IGV execises viewing BAMS() and spotting SNPs( data under the repo `igv-mutant-data`)
+
+
+
 
 
 
