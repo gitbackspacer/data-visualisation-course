@@ -130,6 +130,10 @@ RNA seq mapping data visualisation(IGV)
 RNAseq Expression data visualisation (Degust)
 ---------------------------------------------
 
+
+- We will use Degust webserver which allows easy Visualizing, exploration the RNA-seq differential gene-expression data
+- Visit the Degust project page, or the source code on GitHub Written by David R. Powell (@d_r_powell)
+
 - We can upload the data  under (https://github.com/gitbackspacer/data-visualisation-course/blob/master/degsut/gene-expression-counts.csv)
 
 - Already uploaded as a session (http://degust.erc.monash.edu/degust/config.html?code=d24c2a88f917954853272af3e80cde5a)
