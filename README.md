@@ -163,9 +163,14 @@ Gene Network construction and Visualisation
 - paper: GeNeCK: a web server for gene network construction and visualization,  Zhanget al (2019). BMC bioinformatics
 
 
+Cytoscape
+----------
 
 
+- We can Import the `SIganlingFlow.cys` file as a network using File --> Import --> Network -->  File...
+- Cytoscape user interface: has thee main elements : the Control Panel on the left, the Table Panel on the bottom, and the Network View in the middle
 
+- Explore various options
 
 
 Using Expression atlas: Transcription profiling by high throughput sequencing of Arabidopsis roots, leaves, flowers and siliques 
