@@ -68,6 +68,11 @@ Exercises
 
 * Plotly serves a large bioinformatics research community. These users leverage the uniquely interactive features of plotly charts for dendrograms, heatmaps, volcano plots, and other visualizations common in this field. Using Python and R created through plotly  researchers have created some neat visualisation (https://moderndata.plot.ly/bioinformatics-plots-made-in-python-and-r/)
 
+* For RNASeq specifically (http://gepia.cancer-pku.cn/) GEPIA built using plotly interctivity.
+  Tang, Z. et al. (2017) GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses. Nucleic Acids Res, 10.1093/nar/gkx247.
+
+
+
 
 
 MSA 
