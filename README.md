@@ -48,14 +48,17 @@ After this course you should be able to:
 * Visualising and comparing Gene ontology (GO terms) from expression data set using GO View
 
 
+Poll 
+-----
+
 Data Visualisation has become mainstream - no more big tables, spreadsheets, bar/pie charts -
 
 For an inspiration lets visit the story : "The 25 Best Data Visualizations of 2018" (https://visme.co/blog/best-data-visualizations/)
 
 
 
-Exercises
----------
+Interactive plotting
+--------------------
 
 
 * Lot of researchers are making use of plotly and R (https://davetang.org/muse/2016/08/30/interactive-plots-r-using-plotly/) and visit to to checkout the RNAseq data (http://rpubs.com/davetang/205147)
@@ -69,8 +72,8 @@ Exercises
 * Plotly serves a large bioinformatics research community. These users leverage the uniquely interactive features of plotly charts for dendrograms, heatmaps, volcano plots, and other visualizations common in this field. Using Python and R created through plotly  researchers have created some neat visualisation (https://moderndata.plot.ly/bioinformatics-plots-made-in-python-and-r/)
 
 * For RNASeq specifically (http://gepia.cancer-pku.cn/) GEPIA built using plotly interctivity.
-  Tang, Z. et al. (2017) GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses. Nucleic Acids Res, 10.1093/nar/gkx247.
-
+  Tang, Z. et al. (2017) GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses. 
+  (Nucleic Acids Res, 10.1093/nar/gkx247) .
 
 
 
