@@ -130,7 +130,7 @@ RNA seq mapping data visualisation(IGV)
 RNAseq Expression data visualisation (Degust)
 ---------------------------------------------
 
-- We can upload the data  
+- We can upload the data  under (https://github.com/gitbackspacer/data-visualisation-course/blob/master/degsut/gene-expression-counts.csv)
 
 - Already uploaded as a session (http://degust.erc.monash.edu/degust/config.html?code=d24c2a88f917954853272af3e80cde5a)
 
