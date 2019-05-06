@@ -154,6 +154,16 @@ Go term visulisation : GOView
 - It allows users visualize and compare multiple provided GO term lists in a directed acyclic graph (DAG) to reveal relationships among the terms
 
 
+Gene Network construction and Visualisation
+-------------------------------------------
+
+
+- GeNeCK (Gene Network Construction Kit) is a comprehensive online tool kit that integrate various statistical methods to construct gene    networks based on gene expression data and optional hub gene information (http://lce.biohpc.swmed.edu/geneck/index.php)
+
+- paper: GeNeCK: a web server for gene network construction and visualization,  Zhanget al (2019). BMC bioinformatics
+
+
+
 
 
 
