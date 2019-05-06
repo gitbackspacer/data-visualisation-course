@@ -57,12 +57,14 @@ For an inspiration lets visit the story : "The 25 Best Data Visualizations of 20
 Exercises
 ---------
 
-Lot of researchers are making use of plotly and R (https://davetang.org/muse/2016/08/30/interactive-plots-r-using-plotly/) and visit to to checkout the RNAseq data (http://rpubs.com/davetang/205147)
 
-I have done a short demo  (https://plot.ly/~threadmapper/89) using mouse over we can explore(interactive) the gene names
+* Lot of researchers are making use of plotly and R (https://davetang.org/muse/2016/08/30/interactive-plots-r-using-plotly/) and visit to to checkout the RNAseq data (http://rpubs.com/davetang/205147)
 
+* I have done a short demo  (https://plot.ly/~threadmapper/89) using mouse over we can explore(interactive) the gene names
 
-I used to do make and edit templates (https://github.com/veusz/veusz) and save them into SVG and then add the interactivity by writing tooltips. 
+* mRNA expression in tissues (https://plot.ly/~assafm/3/#/)
+
+* I used to do make and edit templates (https://github.com/veusz/veusz) and save them into SVG and then add the interactivity by writing  tooltips. 
 
 
 
