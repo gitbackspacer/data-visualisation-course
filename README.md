@@ -172,6 +172,24 @@ Cytoscape
 
 - Explore various options
 
+- other network example we have is `05062019-signalink-UTh27h.cys` we downloaded as 
+
+````yaml
+SignaLink export config:
+   Species:
+       H. sapiens
+   Layers:
+       Pathway members
+       Pathway regulators
+   Pathways:
+       RTK
+   Include TF network: Yes
+   Range from pathway specific TF: 1
+   Format: cytoscape
+   Compression: None
+```
+
+
 
 Using Expression atlas: Transcription profiling by high throughput sequencing of Arabidopsis roots, leaves, flowers and siliques 
 (https://www.ebi.ac.uk/gxa/experiments/E-GEOD-38612/Results)
