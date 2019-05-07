@@ -102,7 +102,8 @@ Circos
    
 * If you prefer R (https://jokergoo.github.io/circlize_book/book/)
 
- 
+* There is Circus in R (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-198)
+
 
 
 
