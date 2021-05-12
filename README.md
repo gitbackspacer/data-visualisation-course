@@ -1,5 +1,5 @@
-# data-visualisation-course
-interactive data visualisation 
+# Data-visualisation-course
+Interactive data visualisation 
 
 
 
