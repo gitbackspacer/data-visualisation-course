@@ -3,7 +3,7 @@ interactive data visualisation
 
 
 
-data-visualisation-course-book-dev
+Data-visualisation-course-book-dev
 -------------------------------------
 
 
