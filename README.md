@@ -3,8 +3,8 @@ Interactive data visualisation
 
 
 
-Data-visualisation-course-book-dev
--------------------------------------
+Interactive-bioinformatics-data-visualisation-dev
+-------------------------------------------------
 
 
 Course Title: Interactive bioinformatics-data visualisation
