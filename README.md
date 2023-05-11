@@ -53,7 +53,8 @@ Poll
 
 Data Visualisation has become mainstream - no more big tables, spreadsheets, bar/pie charts -
 
-For an inspiration lets visit the story : "The 25 Best Data Visualizations of 2018" (https://visme.co/blog/best-data-visualizations/)
+For an inspiration lets visit the story : "The 25 Best Data Visualizations of 2023
+" (https://visme.co/blog/best-data-visualizations/)
 
 
 
